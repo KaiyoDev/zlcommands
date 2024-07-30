@@ -1,0 +1,4 @@
+from texttospeech import texttospeech
+def support():
+	print("tôi có thể giúp bạn những việc sau: \n 1. xem dự báo thời tiết \n 2. xem thời gian hiện tại \n 3.giúp bạn mở các app cơ bản \n 4. giúp bạn tìm hiểu về thế giới qua wikipedia \n 5. giúp bạn mở các trang web \n 6. trò chuyện cùng bạn \n 7. tìm kiếm video youtube \n 8. giúp bạn mở web qua link \n 9. giúp bạn tìm kiếm thông tin qua google \n 10. mở video youtube qua từ khóa \n 11. đọc báo \n 12. giúp bạn phiên dịch các ngôn ngữ ra tiếng việt \n 13. chơi kéo búa bao \n 14. chơi tài xỉu \n 15. đọc vài câu thả thính xàm trên mạng")
+	texttospeech("tôi có thể giúp bạn những việc trên")
